@@ -8,6 +8,8 @@ Practica liberando productos Guillermo Rodrigues Botias
 * [*Segunda parte*](#segunda-parte) : Archivos necesarios
 * [*Tercera parte*](#tercera-parte) : Configuracion 
 
+* Repositorio base de la practica ```https://github.com/GuilleRsB/Practica-final-liberando-productos-Guillermo-Rodrigues.git```
+
 ## Primera Parte
 
 En esta practica vamos a partir del siguiente repositorio 
